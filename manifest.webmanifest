@@ -1,0 +1,10 @@
+{
+  "name": "MiniModa life",
+  "short_name": "MiniModa",
+  "description": "Geyim və aksesuarlar mağazası",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6f1",
+  "theme_color": "#f5e9e2",
+  "icons": []
+}
